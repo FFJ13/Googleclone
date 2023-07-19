@@ -1,2 +1,6 @@
 # Googleclone
-clone de google creado con html y css
+** Clone de google creado con html y css**
+
+##Introduccion
+
+##¿Que construi?
